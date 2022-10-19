@@ -11,33 +11,28 @@ While consulting, I was tasked to create an app that would solve a business issu
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center"><b>
+Jackson Nurse Unit Management App Project </b><br/>
+
+![JMHApp](https://user-images.githubusercontent.com/115415148/196570092-61f0a139-db05-49bd-b16c-f4ba894327b2.jpg)
 <br />
+<br /><b>
+Create a User  </b><br/>
+![JMHCreateUser](https://user-images.githubusercontent.com/115415148/196570113-90a9bcbd-0476-4f27-ae80-65c8de66b4d8.jpg)
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><b>
+Create Profiles </b><br/>
+![JMHCreateProfiles](https://user-images.githubusercontent.com/115415148/196570132-a06b6d29-19ab-49b0-81dc-47b4e27e5f90.jpg)
 <br />
+<br /><b>
+Create Ligntning App  </b><br/>
+![JMHCreateApp](https://user-images.githubusercontent.com/115415148/196570153-4c9d335a-1328-4bf3-96fc-1e6b1fc68f2a.jpg)
+m/115415148/196570132-a06b6d29-19ab-49b0-81dc-47b4e27e5f90.jpg)
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><b>
+Create a Dashboard  </b><br/>
+![JMHCreateDashboard](https://user-images.githubusercontent.com/115415148/196570175-d3b31fbb-b000-44ef-8c31-5e6076501ee4.jpg)
 <br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
